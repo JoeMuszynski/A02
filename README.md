@@ -15,7 +15,9 @@ Github:
 
 To create a repository: Click the + in the top right of any page then click New repository - then choose the repository's name, description, visibility (public/private), whether or not to add a README file - then click Create repository.
 
-To create a branch: Click the Code tab on your repository
+To create a branch: Click the Code tab on your repository, click the dropdown menu that says main, type a branch name, then click Create branch: (branch name) from main.
+
+To make and commit changes to a branch: Under the new branch, click the README.md file, click the pencil icon to edit it, write something in the editor, click Commit changes..., write a commit message to describe the changes, then click Commit changes.
 
 
 # Glossary Terms:
